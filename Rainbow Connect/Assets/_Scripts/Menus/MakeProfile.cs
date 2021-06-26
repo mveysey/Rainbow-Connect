@@ -10,6 +10,8 @@ public class MakeProfile : MonoBehaviour
     public InputField nameText;
     public InputField pronounsText;
     public InputField genderText;
+    public MenuController menuController;
+    public GameObject canvas;
 
     // MENU BUTTONS 
 
@@ -34,12 +36,8 @@ public class MakeProfile : MonoBehaviour
             currentPlayerData.gender = genderText.text;
         }
 
-        print(currentPlayerData.name);
-        print(currentPlayerData.pronouns);
-        print(currentPlayerData.gender);
-        print(currentPlayerData.isHereForLove);
-        print(currentPlayerData.isSameRoomType);
-
-        // change scene? all the relevant attributes are stored in the "currentPlayerData" variable
+        menuController.playerData = currentPlayerData;
+        menuController.SetUserName();
+        canvas.SetActive(false);
     }
 }

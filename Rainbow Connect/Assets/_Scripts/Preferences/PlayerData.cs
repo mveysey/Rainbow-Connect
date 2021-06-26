@@ -23,4 +23,10 @@
         }
         return "(they/them)";
     }
+
+    public string GetRoomCode() {
+        string room = isSameRoomType ? gender : "mix";
+        string love = isHereForLove ? "love" : "friends";
+        return room + love;
+    }
 }

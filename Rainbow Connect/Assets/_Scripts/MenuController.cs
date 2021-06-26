@@ -16,6 +16,8 @@ public class MenuController : MonoBehaviourPunCallbacks
     [SerializeField] private InputField JoinGameInput;
     [SerializeField] private GameObject StartButton;
 
+    public PlayerData playerData;
+
     private void Awake()
     {
 
@@ -49,8 +51,10 @@ public class MenuController : MonoBehaviourPunCallbacks
     public void SetUserName()
     {
         UsernameMenu.SetActive(false);
-        PhotonNetwork.NickName = UsernameInput.text;
+        PhotonNetwork.NickName = playerData.name;
         Debug.Log("set");
+        ConnectPanel.SetActive(true);
+        CreateGameInput.text = playerData.GetRoomCode();
     }
 
     public void CreateGame()
