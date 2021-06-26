@@ -24,7 +24,13 @@ public class Player : MonoBehaviour
         {
             PlayerCamera.SetActive(true);
             controller = GetComponent<CharacterController>();
+            PlayerNameText.text = PhotonNetwork.NickName;
 
+        }
+        else
+        {
+            PlayerNameText.text = photonView.Owner.NickName;
+            PlayerNameText.color = Color.cyan;
         }
     }
     private void Update()
@@ -36,7 +42,7 @@ public class Player : MonoBehaviour
     }
     private void CheckInput()
     {
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W))
         {
 
             moveDir = new Vector3(0, 0, 1);
@@ -44,13 +50,13 @@ public class Player : MonoBehaviour
             transform.eulerAngles = new Vector3(0, 0, 0);
 
         }
-        if (Input.GetKeyUp(KeyCode.UpArrow))
+        if (Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.W))
         {
 
             moveDir = new Vector3(0, 0, 0);
 
         }
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S))
         {
 
             moveDir = new Vector3(0, 0, -1);
@@ -58,13 +64,13 @@ public class Player : MonoBehaviour
             transform.eulerAngles = new Vector3(0, 180, 0);
 
         }
-        if (Input.GetKeyUp(KeyCode.DownArrow))
+        if (Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S))
         {
 
             moveDir = new Vector3(0, 0, 0);
 
         }
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
         {
 
             moveDir = new Vector3(1, 0, 0);
@@ -72,13 +78,13 @@ public class Player : MonoBehaviour
             transform.eulerAngles = new Vector3(0, 90, 0);
 
         }
-        if (Input.GetKeyUp(KeyCode.RightArrow))
+        if (Input.GetKeyUp(KeyCode.RightArrow) || Input.GetKeyUp(KeyCode.D))
         {
 
             moveDir = new Vector3(0, 0, 0);
 
         }
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
         {
 
             moveDir = new Vector3(-1, 0, 0);
@@ -86,7 +92,7 @@ public class Player : MonoBehaviour
             transform.eulerAngles = new Vector3(0, 270, 0);
 
         }
-        if (Input.GetKeyUp(KeyCode.LeftArrow))
+        if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.A))
         {
 
 

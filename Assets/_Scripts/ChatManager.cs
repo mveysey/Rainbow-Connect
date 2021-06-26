@@ -53,7 +53,7 @@ public class ChatManager : MonoBehaviourPunCallbacks, IPunObservable
         DisableSend = false;
     }
 
-    private void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
+    public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
     {
         if (stream.IsWriting)
         {
@@ -66,8 +66,5 @@ public class ChatManager : MonoBehaviourPunCallbacks, IPunObservable
         }
     }
 
-    void IPunObservable.OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
-    {
-        throw new System.NotImplementedException();
-    }
+
 }

@@ -6,7 +6,7 @@ using Photon.Pun;
 using Photon.Realtime;
 public class GameManager : MonoBehaviourPunCallbacks
 {
-    public GameObject PlayerPrefab;
+    public GameObject []PlayerPrefab = new GameObject[6] ;
     public GameObject GameCanvas;
     public GameObject SceneCamera;
     public Text PingText;
@@ -42,12 +42,12 @@ public class GameManager : MonoBehaviourPunCallbacks
     }
     public void SpawnPlayer()
     {
-
+        
 
         float randomValue = Random.Range(-1f, 1f);
         print("spawn");
 
-        PhotonNetwork.Instantiate(PlayerPrefab.name, new Vector3(this.transform.position.x*randomValue,this.transform.position.y,this.transform.position.z), Quaternion.identity,0);
+        PhotonNetwork.Instantiate(PlayerPrefab[ChooseAvatar.GetColour()].name, new Vector3(this.transform.position.x*randomValue,this.transform.position.y,this.transform.position.z), Quaternion.identity,0);
         GameCanvas.SetActive(false);
         SceneCamera.SetActive(false);
     }
