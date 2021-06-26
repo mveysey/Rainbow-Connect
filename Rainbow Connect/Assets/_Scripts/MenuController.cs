@@ -50,11 +50,11 @@ public class MenuController : MonoBehaviourPunCallbacks
     }
     public void SetUserName()
     {
-        UsernameMenu.SetActive(false);
+        //UsernameMenu.SetActive(false);
         PhotonNetwork.NickName = playerData.name;
         Debug.Log("set");
         ConnectPanel.SetActive(true);
-        CreateGameInput.text = playerData.GetRoomCode();
+        JoinGameInput.text = playerData.GetRoomCode();
     }
 
     public void CreateGame()

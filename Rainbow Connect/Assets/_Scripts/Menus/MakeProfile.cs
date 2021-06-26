@@ -11,7 +11,7 @@ public class MakeProfile : MonoBehaviour
     public InputField pronounsText;
     public InputField genderText;
     public MenuController menuController;
-    public GameObject canvas;
+    //public GameObject canvas;
 
     // MENU BUTTONS 
 
@@ -38,6 +38,6 @@ public class MakeProfile : MonoBehaviour
 
         menuController.playerData = currentPlayerData;
         menuController.SetUserName();
-        canvas.SetActive(false);
+        //canvas.SetActive(false);
     }
 }
