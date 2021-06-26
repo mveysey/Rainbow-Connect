@@ -1,0 +1,2183 @@
+fileFormatVersion: 2
+guid: d44dcf25a3a3eb842b5d919c6f5c97d3
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: C3_acc
+  - first:
+      1: 100002
+    second: C3_Body
+  - first:
+      1: 100004
+    second: C3_Body_2
+  - first:
+      1: 100006
+    second: C3_Candy
+  - first:
+      1: 100008
+    second: C3_face
+  - first:
+      1: 100010
+    second: C3_head
+  - first:
+      1: 100012
+    second: C3_head_1
+  - first:
+      1: 100014
+    second: C3_head_3_Roll
+  - first:
+      1: 100016
+    second: C3_head_4_Roll
+  - first:
+      1: 100018
+    second: C3_head_acc
+  - first:
+      1: 100020
+    second: C3_head_end
+  - first:
+      1: 100022
+    second: C3_L_Arm_Roll
+  - first:
+      1: 100024
+    second: C3_L_Hand_1_Roll
+  - first:
+      1: 100026
+    second: C3_L_Hand_2_Roll
+  - first:
+      1: 100028
+    second: C3_L_Hand_End
+  - first:
+      1: 100030
+    second: C3_L_Leg_1_Roll
+  - first:
+      1: 100032
+    second: C3_L_Leg_2_Roll
+  - first:
+      1: 100034
+    second: C3_L_Leg_End
+  - first:
+      1: 100036
+    second: C3_L_Shoulder_Roll
+  - first:
+      1: 100038
+    second: C3_L_Thumb_1_Roll
+  - first:
+      1: 100040
+    second: C3_L_Thumb_2_Roll
+  - first:
+      1: 100042
+    second: C3_L_Thumb_End
+  - first:
+      1: 100044
+    second: C3_L_Wing_1_RM
+  - first:
+      1: 100046
+    second: C3_L_Wing_end
+  - first:
+      1: 100048
+    second: C3_L_Wrist_Roll
+  - first:
+      1: 100050
+    second: C3_Lf_Chr_Glove
+  - first:
+      1: 100052
+    second: C3_Lf_Wing
+  - first:
+      1: 100054
+    second: C3_Mediacafe_Chr
+  - first:
+      1: 100056
+    second: C3_Mediacafe_Chr_Yellow
+  - first:
+      1: 100058
+    second: C3_neck_Roll
+  - first:
+      1: 100060
+    second: C3_nose
+  - first:
+      1: 100062
+    second: C3_Pelvis
+  - first:
+      1: 100064
+    second: C3_R_Arm_Roll
+  - first:
+      1: 100066
+    second: C3_R_Hand_1_Roll
+  - first:
+      1: 100068
+    second: C3_R_Hand_2_Roll
+  - first:
+      1: 100070
+    second: C3_R_Hand_End
+  - first:
+      1: 100072
+    second: C3_R_Reg_1_Roll
+  - first:
+      1: 100074
+    second: C3_R_Reg_2_Roll
+  - first:
+      1: 100076
+    second: C3_R_Reg_End
+  - first:
+      1: 100078
+    second: C3_R_ShouRder_Roll
+  - first:
+      1: 100080
+    second: C3_R_Thumb_1_Roll
+  - first:
+      1: 100082
+    second: C3_R_Thumb_2_Roll
+  - first:
+      1: 100084
+    second: C3_R_Thumb_End
+  - first:
+      1: 100086
+    second: C3_R_Wing_1_RM
+  - first:
+      1: 100088
+    second: C3_R_Wing_end
+  - first:
+      1: 100090
+    second: C3_R_Wrist_Roll
+  - first:
+      1: 100092
+    second: C3_Rf_Wing
+  - first:
+      1: 100094
+    second: C3_ROOT
+  - first:
+      1: 100096
+    second: C3_Rt_Chr_Glove
+  - first:
+      1: 100098
+    second: C3_Scarf
+  - first:
+      1: 100100
+    second: C3_Scarf_1
+  - first:
+      1: 100102
+    second: C3_Scarf_2_RM
+  - first:
+      1: 100104
+    second: C3_Scarf_3
+  - first:
+      1: 100106
+    second: C3_Skin
+  - first:
+      1: 100108
+    second: C3_Skin_2
+  - first:
+      1: 100110
+    second: C3_Spine_1_Roll
+  - first:
+      1: 100112
+    second: C3_Spine_2_Roll
+  - first:
+      1: 100114
+    second: C_2head_2_Roll
+  - first:
+      1: 100116
+    second: //RootNode
+  - first:
+      4: 400000
+    second: C3_acc
+  - first:
+      4: 400002
+    second: C3_Body
+  - first:
+      4: 400004
+    second: C3_Body_2
+  - first:
+      4: 400006
+    second: C3_Candy
+  - first:
+      4: 400008
+    second: C3_face
+  - first:
+      4: 400010
+    second: C3_head
+  - first:
+      4: 400012
+    second: C3_head_1
+  - first:
+      4: 400014
+    second: C3_head_3_Roll
+  - first:
+      4: 400016
+    second: C3_head_4_Roll
+  - first:
+      4: 400018
+    second: C3_head_acc
+  - first:
+      4: 400020
+    second: C3_head_end
+  - first:
+      4: 400022
+    second: C3_L_Arm_Roll
+  - first:
+      4: 400024
+    second: C3_L_Hand_1_Roll
+  - first:
+      4: 400026
+    second: C3_L_Hand_2_Roll
+  - first:
+      4: 400028
+    second: C3_L_Hand_End
+  - first:
+      4: 400030
+    second: C3_L_Leg_1_Roll
+  - first:
+      4: 400032
+    second: C3_L_Leg_2_Roll
+  - first:
+      4: 400034
+    second: C3_L_Leg_End
+  - first:
+      4: 400036
+    second: C3_L_Shoulder_Roll
+  - first:
+      4: 400038
+    second: C3_L_Thumb_1_Roll
+  - first:
+      4: 400040
+    second: C3_L_Thumb_2_Roll
+  - first:
+      4: 400042
+    second: C3_L_Thumb_End
+  - first:
+      4: 400044
+    second: C3_L_Wing_1_RM
+  - first:
+      4: 400046
+    second: C3_L_Wing_end
+  - first:
+      4: 400048
+    second: C3_L_Wrist_Roll
+  - first:
+      4: 400050
+    second: C3_Lf_Chr_Glove
+  - first:
+      4: 400052
+    second: C3_Lf_Wing
+  - first:
+      4: 400054
+    second: C3_Mediacafe_Chr
+  - first:
+      4: 400056
+    second: C3_Mediacafe_Chr_Yellow
+  - first:
+      4: 400058
+    second: C3_neck_Roll
+  - first:
+      4: 400060
+    second: C3_nose
+  - first:
+      4: 400062
+    second: C3_Pelvis
+  - first:
+      4: 400064
+    second: C3_R_Arm_Roll
+  - first:
+      4: 400066
+    second: C3_R_Hand_1_Roll
+  - first:
+      4: 400068
+    second: C3_R_Hand_2_Roll
+  - first:
+      4: 400070
+    second: C3_R_Hand_End
+  - first:
+      4: 400072
+    second: C3_R_Reg_1_Roll
+  - first:
+      4: 400074
+    second: C3_R_Reg_2_Roll
+  - first:
+      4: 400076
+    second: C3_R_Reg_End
+  - first:
+      4: 400078
+    second: C3_R_ShouRder_Roll
+  - first:
+      4: 400080
+    second: C3_R_Thumb_1_Roll
+  - first:
+      4: 400082
+    second: C3_R_Thumb_2_Roll
+  - first:
+      4: 400084
+    second: C3_R_Thumb_End
+  - first:
+      4: 400086
+    second: C3_R_Wing_1_RM
+  - first:
+      4: 400088
+    second: C3_R_Wing_end
+  - first:
+      4: 400090
+    second: C3_R_Wrist_Roll
+  - first:
+      4: 400092
+    second: C3_Rf_Wing
+  - first:
+      4: 400094
+    second: C3_ROOT
+  - first:
+      4: 400096
+    second: C3_Rt_Chr_Glove
+  - first:
+      4: 400098
+    second: C3_Scarf
+  - first:
+      4: 400100
+    second: C3_Scarf_1
+  - first:
+      4: 400102
+    second: C3_Scarf_2_RM
+  - first:
+      4: 400104
+    second: C3_Scarf_3
+  - first:
+      4: 400106
+    second: C3_Skin
+  - first:
+      4: 400108
+    second: C3_Skin_2
+  - first:
+      4: 400110
+    second: C3_Spine_1_Roll
+  - first:
+      4: 400112
+    second: C3_Spine_2_Roll
+  - first:
+      4: 400114
+    second: C_2head_2_Roll
+  - first:
+      4: 400116
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: C3_head
+  - first:
+      43: 4300002
+    second: C3_face
+  - first:
+      43: 4300004
+    second: C3_nose
+  - first:
+      43: 4300006
+    second: C3_Body_2
+  - first:
+      43: 4300008
+    second: C3_Lf_Chr_Glove
+  - first:
+      43: 4300010
+    second: C3_Rt_Chr_Glove
+  - first:
+      43: 4300012
+    second: C3_Candy
+  - first:
+      43: 4300014
+    second: C3_Lf_Wing
+  - first:
+      43: 4300016
+    second: C3_Rf_Wing
+  - first:
+      43: 4300018
+    second: C3_head_acc
+  - first:
+      43: 4300020
+    second: C3_Scarf
+  - first:
+      74: 7400000
+    second: Shooter_Move
+  - first:
+      74: 7400002
+    second: Shooter_Idle
+  - first:
+      74: 7400004
+    second: Shooter_Death
+  - first:
+      74: 7400006
+    second: Tree_Born
+  - first:
+      74: 7400008
+    second: Tree_Idle
+  - first:
+      74: 7400010
+    second: Tree_Jump
+  - first:
+      74: 7400012
+    second: Tree_Burrow
+  - first:
+      74: 7400014
+    second: Dance1
+  - first:
+      74: 7400016
+    second: Dance2
+  - first:
+      74: 7400018
+    second: Dance3
+  - first:
+      74: 7400020
+    second: Dance4
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: C3_Body_2
+  - first:
+      137: 13700002
+    second: C3_Candy
+  - first:
+      137: 13700004
+    second: C3_face
+  - first:
+      137: 13700006
+    second: C3_head
+  - first:
+      137: 13700008
+    second: C3_head_acc
+  - first:
+      137: 13700010
+    second: C3_Lf_Chr_Glove
+  - first:
+      137: 13700012
+    second: C3_Lf_Wing
+  - first:
+      137: 13700014
+    second: C3_nose
+  - first:
+      137: 13700016
+    second: C3_Rf_Wing
+  - first:
+      137: 13700018
+    second: C3_Rt_Chr_Glove
+  - first:
+      137: 13700020
+    second: C3_Scarf
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candy
+    second: {fileID: 2100000, guid: e8de9ed031a5e7a4e9a92619afb9f6aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chr_Color_Body
+    second: {fileID: 2100000, guid: 2a209268b662c6947835b3d534831bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chr_Face_YellowColor
+    second: {fileID: 2100000, guid: f8f9098158c851c44a87b61dee2b81f6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shooter_Move
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shooter_Idle
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 75
+      lastFrame: 399
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shooter_Death
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 420
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tree_Born
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 500
+      lastFrame: 544
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tree_Idle
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 545
+      lastFrame: 864
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tree_Jump
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 895
+      lastFrame: 945
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tree_Burrow
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 1000
+      lastFrame: 1050
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dance1
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 1100
+      lastFrame: 1229
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dance2
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 1300
+      lastFrame: 1429
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dance3
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 1500
+      lastFrame: 1629
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dance4
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 1700
+      lastFrame: 1829
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Candy
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_head_acc
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Lf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Rf_Wing
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Scarf
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_acc/C3_Skin_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Body_2
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_face
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_head
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Lf_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_nose
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Rt_Chr_Glove
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_Mediacafe_Chr/C3_Body/C3_Skin
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_L_Leg_1_Roll/C3_L_Leg_2_Roll/C3_L_Leg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_R_Reg_1_Roll/C3_R_Reg_2_Roll/C3_R_Reg_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Hand_2_Roll/C3_L_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Shoulder_Roll/C3_L_Arm_Roll/C3_L_Wrist_Roll/C3_L_Hand_1_Roll/C3_L_Thumb_1_Roll/C3_L_Thumb_2_Roll/C3_L_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_L_Wing_1_RM/C3_L_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_neck_Roll/C3_head_1/C_2head_2_Roll/C3_head_3_Roll/C3_head_4_Roll/C3_head_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Hand_2_Roll/C3_R_Hand_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_ShouRder_Roll/C3_R_Arm_Roll/C3_R_Wrist_Roll/C3_R_Hand_1_Roll/C3_R_Thumb_1_Roll/C3_R_Thumb_2_Roll/C3_R_Thumb_End
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_R_Wing_1_RM/C3_R_Wing_end
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM
+        weight: 1
+      - path: C3_Mediacafe_Chr_Yellow/C3_ROOT/C3_Pelvis/C3_Spine_1_Roll/C3_Spine_2_Roll/C3_Scarf_1/C3_Scarf_2_RM/C3_Scarf_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
