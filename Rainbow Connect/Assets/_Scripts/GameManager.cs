@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using Photon.Pun;
 using Photon.Realtime;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviourPunCallbacks
 {
     public GameObject []PlayerPrefab = new GameObject[6] ;
@@ -14,11 +16,12 @@ public class GameManager : MonoBehaviourPunCallbacks
     public GameObject disconnectUI;
     public GameObject PlayerFeed;
     public GameObject FeedGrid;
-
+    public Button yourButton;
     // Start is called before the first frame update
     private void Awake()
     {
         GameCanvas.SetActive(true);
+        
     }
     private void Update()
     {
@@ -39,6 +42,22 @@ public class GameManager : MonoBehaviourPunCallbacks
             Off = true;
         }
         
+    }
+
+    void TaskOnClick()
+    {
+        if (gameObject.CompareTag("dance"))
+        {
+            PhotonNetwork.LoadLevel("DanceRoom");
+        }
+        if (gameObject.CompareTag("movie"))
+        {
+            PhotonNetwork.LoadLevel("MovieRoom");
+        }
+        if (gameObject.CompareTag("museum"))
+        {
+            PhotonNetwork.LoadLevel("MuseumRoom");
+        }
     }
     public void SpawnPlayer()
     {

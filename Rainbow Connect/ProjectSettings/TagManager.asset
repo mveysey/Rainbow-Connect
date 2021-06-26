@@ -11,6 +11,9 @@ TagManager:
   - green
   - blue
   - pink
+  - dance
+  - movie
+  - museum
   layers:
   - Default
   - TransparentFX
