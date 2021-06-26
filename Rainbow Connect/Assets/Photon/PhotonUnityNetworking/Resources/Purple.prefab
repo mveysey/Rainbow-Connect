@@ -1073,7 +1073,7 @@ MonoBehaviour:
   voiceDetection: 0
   voiceDetectionThreshold: 0.01
   voiceDetectionDelayMs: 500
-  unityMicrophoneDevice: Microphone Array (Realtek(R) Audio)
+  unityMicrophoneDevice: Microphone (Yeti Stereo Microphone)
   photonMicrophoneDeviceId: 0
   interestGroup: 0
   debugEchoMode: 0

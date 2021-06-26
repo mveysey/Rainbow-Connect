@@ -542,7 +542,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 473220710}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: ChangeGender
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: non-binary
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &473220710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -620,6 +631,52 @@ RectTransform:
   m_AnchoredPosition: {x: 196, y: -281}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &499565614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 499565616}
+  - component: {fileID: 499565615}
+  m_Layer: 0
+  m_Name: MakeProfile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &499565615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 499565614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e239a4f79e85724f89f19b7128abc32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: {fileID: 269107185}
+  pronounsText: {fileID: 1177521000}
+  genderText: {fileID: 1586573468}
+--- !u!4 &499565616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 499565614}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &540347493
 GameObject:
   m_ObjectHideFlags: 0
@@ -939,7 +996,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 687490217}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: ChangeGender
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: male
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &687490217
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1138,7 +1206,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 727132303}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: ChangeRoomType
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &727132303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1258,7 +1337,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 771484507}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: ChangeGender
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: other
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &771484507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1558,7 +1648,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1036292739}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: ChangeRoomType
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
 --- !u!114 &1036292739
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2055,7 +2156,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1198594871}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: ChangeLookingForLove
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
 --- !u!114 &1198594871
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3194,7 +3306,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1973333526}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: Submit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1973333526
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3313,7 +3436,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1977887933}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: ChangeGender
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: female
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1977887933
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3432,7 +3566,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2017476223}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 499565615}
+        m_MethodName: ChangeLookingForLove
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2017476223
 MonoBehaviour:
   m_ObjectHideFlags: 0
