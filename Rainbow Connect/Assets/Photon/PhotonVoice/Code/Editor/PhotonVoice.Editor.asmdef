@@ -6,9 +6,7 @@
         "PhotonVoice.API"
     ],
     "includePlatforms": [
-        "Editor",
-        "WebGL",
-        "WindowsStandalone64"
+        "Editor"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
